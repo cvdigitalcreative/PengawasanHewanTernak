@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">PengawasanHewanTernak</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="login">
+        <item>Pengawas</item>
+        <item>Owner</item>
+    </string-array>
+
+    <string-array name="jenis_pakan">
+        <item>Rumput Gajah</item>
+        <item>Ampas Tahu</item>
+        <item>Konsentrat</item>
+    </string-array>
+
+    <string-array name="jenis_sapi">
+        <item>Bali</item>
+        <item>Brahma</item>
+        <item>Limosin</item>
+    </string-array>
+
+    <string-array name="periode">
+        <item>Periode 1</item>
+        <item>Periode 2</item>
+    </string-array>
+</resources>
+

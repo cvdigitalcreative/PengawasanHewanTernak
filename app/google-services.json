@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "579951690323",
+    "firebase_url": "https://pengawasanhewanternak.firebaseio.com",
+    "project_id": "pengawasanhewanternak",
+    "storage_bucket": "pengawasanhewanternak.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579951690323:android:328c1f2fb1ea07de",
+        "android_client_info": {
+          "package_name": "com.example.shaff.pengawasanhewanternak"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "579951690323-vtaqkbv7078cft1leea7aafbhprjjkdn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shaff.pengawasanhewanternak",
+            "certificate_hash": "3d2d637db19c48e7569e8fb0bfd4db856ff439a8"
+          }
+        },
+        {
+          "client_id": "579951690323-0178oc2tfqeudc2fdit4jrreefuq8b4a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7422RsSu7_RHsCrfwMGlnCxwZYO0Gwa8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "579951690323-0178oc2tfqeudc2fdit4jrreefuq8b4a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
